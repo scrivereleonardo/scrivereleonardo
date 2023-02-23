@@ -1,4 +1,4 @@
-### Hi i'm Leonardo 👋
+### Hi! I'm Leonardo 👋!
 
 **[ENG]** 
 This is my github profile where i store a bit of everything. Some old repository that i made when i was at school and some other silly projects made to kill time!
@@ -8,6 +8,9 @@ Questo è il mio profilo github dove tengo un pò di tutto. Alcune vecchie repos
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scrivereleonardo&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=scrivereleonardo&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=scrivereleonardo&color=blueviolet)
+
 <!--
 **scrivereleonardo/scrivereleonardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
